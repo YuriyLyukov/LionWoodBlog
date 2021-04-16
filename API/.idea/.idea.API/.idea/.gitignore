@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.API.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Projects\C#\WebSites\LionWoodBlog\API\.idea\.idea.API\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
