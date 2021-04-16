@@ -6,9 +6,10 @@ This is a Blog (SPA) site with Angular and ASP.NET Core 5.
 * ASP.NET Core 5
 * [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
 * AutoMapper
-* [Angular 11](https://angular.io/)
 * MediatR
 * CQRS Pattern
+* [Angular 11](https://angular.io/)
+* Tailwind
 
 ## Getting Started
 1. Install the latest [.NET 5 SDK](https://dotnet.microsoft.com/download/dotnet/5.0)
